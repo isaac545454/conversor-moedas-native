@@ -1,4 +1,4 @@
-s<h1 style="text-align: center">projeto</h1>
+<h1 style="text-align: center">projeto</h1>
 <img src="20221024_130141.gif">
  
 
