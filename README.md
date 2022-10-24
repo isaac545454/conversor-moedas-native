@@ -1,4 +1,4 @@
-<h1 style="text-align: center">projeto</h1>
+s<h1 style="text-align: center">projeto</h1>
 <img src="20221024_130141.gif">
  
 
@@ -11,7 +11,7 @@
 
 <h2 style="margin-top: 20px">Funcionalidades</h2>
 <ul>
-  <li>converter de real para dolar/li>
+  <li>converter de real para dolar</li>
   <li>converter de dolar para real</li>
   <li>converter de euro para real</li>
 </ul>
